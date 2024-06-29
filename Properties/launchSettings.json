@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FolderSyncronization": {
+      "commandName": "Project",
+      "commandLineArgs": "-s C:\\Users\\MrHit\\source\\repos\\Pedrag1234\\FolderSyncronization\\source -r C:\\Users\\MrHit\\source\\repos\\Pedrag1234\\FolderSyncronization\\replica -i 1000 -o logger.txt"
+    }
+  }
+}
